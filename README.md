@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas.
 
- - Strogonoff de frando.
+ - Strogonoff de frango.
+ - Pavê
